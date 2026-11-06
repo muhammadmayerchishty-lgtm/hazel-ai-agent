@@ -1,0 +1,6 @@
+{
+  "name": "HAZEL - AI Desktop Agent",
+  "description": "Futuristic Jarvis-inspired AI desktop agent dashboard for Sir Mayer with holographic neon command center, live telemetry, and voice dock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
